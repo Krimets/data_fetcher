@@ -5,7 +5,7 @@ import requests
 # Refine fetches data
 print('Hello, please, input data, like: date, campaign, clicks')
 fields = input().replace(' ', '').split(',')
-print('Now input the URL for the file, like: https://drive.google.com/file/d/1zLdEcpzCp357s3Rse112Lch9EMUWzMLE/view')
+print('Now input the URL for the file, like: https://drive.google.com/file/d/13F7qRnIQC0buvWuxX8GvUG5yEwAJ6vnP/view')
 url = input().replace(' ', '').split('/')
 url = f'https://drive.google.com/uc?id={url[5]}'
 
