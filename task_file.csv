@@ -1,0 +1,42 @@
+date,campaign,clicks,spend,medium,source
+2022-01-06,retageting APAC,1,2.55,Unknown,facebook
+2022-01-06,retargeting UK&CO,5,2.47,Unknown,facebook
+2022-01-07,retageting APAC,2,2.62,Unknown,facebook
+2022-01-07,retargeting UK&CO,3,2.48,Unknown,facebook
+2022-01-08,retageting APAC,2,2.44,Unknown,facebook
+2022-01-08,"Free trial, upgrade to basic at https://www.windsor.ai/pricing/",1,2.48,Unknown,facebook
+2022-01-09,retageting APAC,2,2.44,Unknown,facebook
+2022-01-09,retargeting UK&CO,3,2.42,Unknown,facebook
+2022-01-10,retageting APAC,2,2.47,Unknown,facebook
+2022-01-10,retargeting UK&CO,2,2.44,Unknown,facebook
+2022-01-11,retageting APAC,3,2.48,Unknown,facebook
+2022-01-11,retargeting UK&CO,1,2.46,Unknown,facebook
+2022-01-12,retageting APAC,1,2.44,Unknown,facebook
+2022-01-12,retargeting UK&CO,2,2.51,Unknown,facebook
+2022-01-06,powerbi,21,5.57,Unknown,google
+2022-01-07,powerbi,2,0.33,Unknown,google
+2022-01-10,powerbi,6,1.67,Unknown,google
+2022-01-11,powerbi,7,0.85,Unknown,google
+2022-01-12,powerbi,4,0.66,Unknown,google
+2022-01-06,Sales-Search-7,3,0.78,Unknown,google
+2022-01-07,Sales-Search-7,1,0.41,Unknown,google
+2022-01-08,Sales-Search-7,1,0.01,Unknown,google
+2022-01-10,Sales-Search-7,2,0.2,Unknown,google
+2022-01-11,Sales-Search-7,2,0.69,Unknown,google
+2022-01-12,Sales-Search-7,1,0.47,Unknown,google
+2022-01-06,competitors,5,0.174724,Unknown,google
+2022-01-07,competitors,2,0.115777,Unknown,google
+2022-01-08,competitors,2,0.667394,Unknown,google
+2022-01-09,competitors,1,0.035359,Unknown,google
+2022-01-10,competitors,2,0.6,Unknown,google
+2022-01-12,powerbi broad,1,0.38,Unknown,google
+2022-01-06,datastudio,4,1.88,Unknown,google
+2022-01-07,datastudio,1,0.16,Unknown,google
+2022-01-08,datastudio,3,0.6,Unknown,google
+2022-01-11,datastudio,5,1.48,Unknown,google
+2022-01-12,datastudio,3,0.78,Unknown,google
+2022-01-06,tableau broad,1,0.15,Unknown,google
+2022-01-07,tableau broad,2,1.38,Unknown,google
+2022-01-08,tableau broad,1,0.2,Unknown,google
+2022-01-11,tableau broad,1,0.34,Unknown,google
+2022-01-12,Multi touch attribution,5,9.68,Unknown,google
